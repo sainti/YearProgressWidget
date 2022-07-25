@@ -1,0 +1,9 @@
+<layout id="MainLayout">
+    <!-- <bitmap id="id_monkey" x="center" y="center" filename="../drawables/monkey.png" /> -->
+    <!-- <label text="Page Heading" x="10" y="25" font="Gfx.FONT_LARGE" color="Gfx.COLOR_WHITE" /> -->
+    	<drawable id="Progress" class="ProgressRound">
+	</drawable>
+   	<label text="11%" id="percent_label" x="center" y="center" font="Gfx.FONT_SYSTEM_NUMBER_THAI_HOT" color="Gfx.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+	<label text="Year Progress" id="desc_label" x="center" y="15%" font="Gfx.FONT_SMALL" color="Gfx.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+   
+</layout>

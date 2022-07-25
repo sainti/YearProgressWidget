@@ -1,0 +1,6 @@
+<resources>
+    <layout id="GlanceLayout" scope="glance">
+        <label text="11%" id="percent_label" x="10" y="55%" font="Gfx.FONT_SMALL" color="Gfx.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT"/>
+        <label text="Year Progress:" id="desc_label" x="10" y="-1" font="Gfx.FONT_TINY" color="Gfx.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT"/>
+    </layout>
+</resources>

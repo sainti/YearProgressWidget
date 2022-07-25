@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\dev\YearProgressWidget\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="1" lineNum="9" parent="globals/YearProgressWidgetApp" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="1" lineNum="10" parent="globals/YearProgressWidgetApp" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="1" lineNum="11" parent="globals/YearProgressWidgetApp" pc="268435473" symbol="initialize"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="2" lineNum="15" parent="globals/YearProgressWidgetApp" pc="268435492" symbol="onStart"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="3" lineNum="19" parent="globals/YearProgressWidgetApp" pc="268435497" symbol="onStop"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="4" lineNum="23" parent="globals/YearProgressWidgetApp" pc="268435502" symbol="getInitialView"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="4" lineNum="24" parent="globals/YearProgressWidgetApp" pc="268435506" symbol="getInitialView"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="5" lineNum="28" parent="globals/YearProgressWidgetApp" pc="268435544" symbol="getGlanceView"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="5" lineNum="29" parent="globals/YearProgressWidgetApp" pc="268435548" symbol="getGlanceView"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="6" lineNum="5" parent="globals/YearProgressWidgetApp" pc="268438342" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetApp.mc" id="6" lineNum="5" parent="globals/YearProgressWidgetApp" pc="268438342" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="8" lineNum="8" parent="globals/YearProgressWidgetView" pc="268435586" symbol="initialize"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="8" lineNum="9" parent="globals/YearProgressWidgetView" pc="268435590" symbol="initialize"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="14" parent="globals/YearProgressWidgetView" pc="268435609" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="15" parent="globals/YearProgressWidgetView" pc="268435613" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="17" parent="globals/YearProgressWidgetView" pc="268435650" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="19" parent="globals/YearProgressWidgetView" pc="268435702" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="20" parent="globals/YearProgressWidgetView" pc="268435746" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="32" parent="globals/YearProgressWidgetView" pc="268435886" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="34" parent="globals/YearProgressWidgetView" pc="268435906" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="37" parent="globals/YearProgressWidgetView" pc="268435926" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="46" parent="globals/YearProgressWidgetView" pc="268435986" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="48" parent="globals/YearProgressWidgetView" pc="268436005" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="50" parent="globals/YearProgressWidgetView" pc="268436020" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="52" parent="globals/YearProgressWidgetView" pc="268436058" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="53" parent="globals/YearProgressWidgetView" pc="268436087" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="54" parent="globals/YearProgressWidgetView" pc="268436117" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="56" parent="globals/YearProgressWidgetView" pc="268436143" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="57" parent="globals/YearProgressWidgetView" pc="268436167" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="58" parent="globals/YearProgressWidgetView" pc="268436193" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="9" lineNum="60" parent="globals/YearProgressWidgetView" pc="268436210" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="10" lineNum="67" parent="globals/YearProgressWidgetView" pc="268436251" symbol="onShow"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="11" lineNum="73" parent="globals/YearProgressWidgetView" pc="268436256" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="11" lineNum="75" parent="globals/YearProgressWidgetView" pc="268436260" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="12" lineNum="81" parent="globals/YearProgressWidgetView" pc="268436281" symbol="onHide"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="13" lineNum="6" parent="globals/YearProgressWidgetView" pc="268438361" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="13" lineNum="6" parent="globals/YearProgressWidgetView" pc="268438361" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="15" lineNum="8" parent="globals/MyGlanceView" pc="268436286" symbol="initialize"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="15" lineNum="9" parent="globals/MyGlanceView" pc="268436290" symbol="initialize"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="16" lineNum="12" parent="globals/MyGlanceView" pc="268436309" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="16" lineNum="13" parent="globals/MyGlanceView" pc="268436313" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="16" lineNum="14" parent="globals/MyGlanceView" pc="268436350" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="16" lineNum="15" parent="globals/MyGlanceView" pc="268436406" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="16" lineNum="23" parent="globals/MyGlanceView" pc="268436466" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="16" lineNum="25" parent="globals/MyGlanceView" pc="268436485" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="16" lineNum="27" parent="globals/MyGlanceView" pc="268436500" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="16" lineNum="29" parent="globals/MyGlanceView" pc="268436538" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="16" lineNum="30" parent="globals/MyGlanceView" pc="268436562" symbol="onLayout"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="17" lineNum="36" parent="globals/MyGlanceView" pc="268436589" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="17" lineNum="37" parent="globals/MyGlanceView" pc="268436593" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="17" lineNum="38" parent="globals/MyGlanceView" pc="268436613" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="18" lineNum="41" parent="globals/MyGlanceView" pc="268436655" symbol="drawProgress"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="18" lineNum="42" parent="globals/MyGlanceView" pc="268436659" symbol="drawProgress"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="18" lineNum="43" parent="globals/MyGlanceView" pc="268436672" symbol="drawProgress"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="18" lineNum="45" parent="globals/MyGlanceView" pc="268436685" symbol="drawProgress"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="18" lineNum="46" parent="globals/MyGlanceView" pc="268436725" symbol="drawProgress"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="18" lineNum="50" parent="globals/MyGlanceView" pc="268436778" symbol="drawProgress"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="18" lineNum="51" parent="globals/MyGlanceView" pc="268436806" symbol="drawProgress"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="19" lineNum="6" parent="globals/MyGlanceView" pc="268438255" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\MyGlanceView.mc" id="19" lineNum="6" parent="globals/MyGlanceView" pc="268438255" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="21" lineNum="6" parent="globals/ProgressRound" pc="268436863" symbol="initialize"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="21" lineNum="7" parent="globals/ProgressRound" pc="268436867" symbol="initialize"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="10" parent="globals/ProgressRound" pc="268436888" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="11" parent="globals/ProgressRound" pc="268436892" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="12" parent="globals/ProgressRound" pc="268436908" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="13" parent="globals/ProgressRound" pc="268436918" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="14" parent="globals/ProgressRound" pc="268436925" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="15" parent="globals/ProgressRound" pc="268436944" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="16" parent="globals/ProgressRound" pc="268436963" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="17" parent="globals/ProgressRound" pc="268436976" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="19" parent="globals/ProgressRound" pc="268436984" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="21" parent="globals/ProgressRound" pc="268436997" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="22" parent="globals/ProgressRound" pc="268437033" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="23" parent="globals/ProgressRound" pc="268437044" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="24" parent="globals/ProgressRound" pc="268437061" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="26" parent="globals/ProgressRound" pc="268437087" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="22" lineNum="27" parent="globals/ProgressRound" pc="268437101" symbol="draw"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="23" lineNum="4" parent="globals/ProgressRound" pc="268438274" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\YearProgressWidget\\source\\ProgressRound.mc" id="23" lineNum="4" parent="globals/ProgressRound" pc="268438274" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="12" parent="globals/Rez/Drawables/progressList" pc="268437145" symbol="initialize"/>
+        <entry filename="Rez" id="25" lineNum="13" parent="globals/Rez/Drawables/progressList" pc="268437149" symbol="initialize"/>
+        <entry filename="Rez" id="26" lineNum="16" parent="globals/Rez/Drawables/progressList" pc="268437174" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="17" parent="globals/Rez/Drawables/progressList" pc="268437178" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="18" parent="globals/Rez/Drawables/progressList" pc="268437189" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="19" parent="globals/Rez/Drawables/progressList" pc="268437201" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="23" parent="globals/Rez/Drawables/progressList" pc="268437208" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="24" parent="globals/Rez/Drawables/progressList" pc="268437244" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="25" parent="globals/Rez/Drawables/progressList" pc="268437276" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="27" parent="globals/Rez/Drawables/progressList" pc="268437312" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="28" parent="globals/Rez/Drawables/progressList" pc="268437348" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="30" parent="globals/Rez/Drawables/progressList" pc="268437375" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="31" parent="globals/Rez/Drawables/progressList" pc="268437411" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="33" parent="globals/Rez/Drawables/progressList" pc="268437443" symbol="draw"/>
+        <entry filename="Rez" id="26" lineNum="34" parent="globals/Rez/Drawables/progressList" pc="268437479" symbol="draw"/>
+        <entry filename="Rez" id="27" lineNum="10" parent="globals/Rez/Drawables/progressList" pc="268438318" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="10" parent="globals/Rez/Drawables/progressList" pc="268438318" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="2" parent="globals/Rez/Drawables" pc="268438317" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="41" parent="globals/Rez/Fonts" pc="268438338" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="43" parent="globals/Rez/JsonData" pc="268438340" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="52" parent="globals/Rez/Layouts" pc="268437507" symbol="GlanceLayout"/>
+        <entry filename="Rez" id="31" lineNum="54" parent="globals/Rez/Layouts" pc="268437519" symbol="GlanceLayout"/>
+        <entry filename="Rez" id="31" lineNum="55" parent="globals/Rez/Layouts" pc="268437665" symbol="GlanceLayout"/>
+        <entry filename="Rez" id="31" lineNum="57" parent="globals/Rez/Layouts" pc="268437811" symbol="GlanceLayout"/>
+        <entry filename="Rez" id="32" lineNum="66" parent="globals/Rez/Layouts" pc="268437839" symbol="MainLayout"/>
+        <entry filename="Rez" id="32" lineNum="68" parent="globals/Rez/Layouts" pc="268437851" symbol="MainLayout"/>
+        <entry filename="Rez" id="32" lineNum="69" parent="globals/Rez/Layouts" pc="268437894" symbol="MainLayout"/>
+        <entry filename="Rez" id="32" lineNum="70" parent="globals/Rez/Layouts" pc="268438070" symbol="MainLayout"/>
+        <entry filename="Rez" id="32" lineNum="72" parent="globals/Rez/Layouts" pc="268438216" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="45" parent="globals/Rez/Layouts" pc="268438339" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="77" parent="globals/Rez/Menus" pc="268438337" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="35" lineNum="79" parent="globals/Rez/Strings" pc="268438341" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="36" lineNum="1" parent="globals/Rez" pc="268438293" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="36" lineNum="1" parent="globals/Rez" pc="268438293" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="10" object="true" symbol="YearProgressWidgetApp"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="19" method="true" symbol="GlanceLayout"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="20" method="true" symbol="MainLayout"/>
+        <entry id="11" object="true" symbol="YearProgressWidgetView"/>
+        <entry field="true" id="8388938" symbol="month"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="9" symbol="percent"/>
+        <entry field="true" id="21" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389338" symbol="minute"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="18" object="true" symbol="progressList"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="16" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8391300" method="true" symbol="isVisible"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="12" object="true" symbol="MyGlanceView"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="8388720" symbol="hour"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="17" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="8388939" symbol="day"/>
+        <entry id="14" method="true" symbol="drawProgress"/>
+        <entry id="15" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8391457" method="true" symbol="getGlanceView"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="13" object="true" symbol="ProgressRound"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435496" name="state" stackId="1" startPc="268435492"/>
+        <entry arg="true" endPc="268435501" name="state" stackId="1" startPc="268435497"/>
+        <entry endPc="268436249" name="oneYear" stackId="9" startPc="268435613"/>
+        <entry endPc="268436249" name="today2" stackId="3" startPc="268435613"/>
+        <entry endPc="268436249" name="today" stackId="2" startPc="268435613"/>
+        <entry endPc="268436249" name="options" stackId="5" startPc="268435613"/>
+        <entry endPc="268436249" name="firstDayOfTheYear" stackId="6" startPc="268435613"/>
+        <entry endPc="268436249" name="progressInSeconds" stackId="7" startPc="268435613"/>
+        <entry endPc="268436249" name="dateString" stackId="4" startPc="268435613"/>
+        <entry endPc="268436249" name="percent_label" stackId="8" startPc="268435613"/>
+        <entry arg="true" endPc="268436250" name="dc" stackId="1" startPc="268435609"/>
+        <entry arg="true" endPc="268436280" name="dc" stackId="1" startPc="268436256"/>
+        <entry endPc="268436587" name="today" stackId="2" startPc="268436313"/>
+        <entry endPc="268436587" name="options" stackId="3" startPc="268436313"/>
+        <entry endPc="268436587" name="firstDayOfTheYear" stackId="4" startPc="268436313"/>
+        <entry endPc="268436587" name="progressInSeconds" stackId="5" startPc="268436313"/>
+        <entry endPc="268436587" name="percent_label" stackId="6" startPc="268436313"/>
+        <entry arg="true" endPc="268436588" name="dc" stackId="1" startPc="268436309"/>
+        <entry arg="true" endPc="268436654" name="dc" stackId="1" startPc="268436589"/>
+        <entry endPc="268436861" name="w" stackId="6" startPc="268436659"/>
+        <entry endPc="268436861" name="h" stackId="5" startPc="268436659"/>
+        <entry arg="true" endPc="268436862" name="dc" stackId="1" startPc="268436655"/>
+        <entry arg="true" endPc="268436862" name="maxvalue" stackId="3" startPc="268436655"/>
+        <entry arg="true" endPc="268436862" name="codeColor" stackId="4" startPc="268436655"/>
+        <entry arg="true" endPc="268436862" name="value" stackId="2" startPc="268436655"/>
+        <entry arg="true" endPc="268436887" name="params" stackId="1" startPc="268436863"/>
+        <entry endPc="268437143" name="x" stackId="5" startPc="268436892"/>
+        <entry endPc="268437143" name="w" stackId="4" startPc="268436892"/>
+        <entry endPc="268437143" name="fraction" stackId="2" startPc="268436892"/>
+        <entry endPc="268437143" name="r" stackId="7" startPc="268436892"/>
+        <entry endPc="268437143" name="degrees" stackId="3" startPc="268436892"/>
+        <entry endPc="268437143" name="y" stackId="6" startPc="268436892"/>
+        <entry arg="true" endPc="268437144" name="dc" stackId="1" startPc="268436888"/>
+        <entry arg="true" endPc="268437506" name="dc" stackId="1" startPc="268437174"/>
+        <entry endPc="268437837" name="rez_cmp_local_text_percent_label" stackId="2" startPc="268437519"/>
+        <entry endPc="268437837" name="rez_cmp_local_text_desc_label" stackId="3" startPc="268437519"/>
+        <entry arg="true" endPc="268437838" name="dc" stackId="1" startPc="268437507"/>
+        <entry endPc="268438252" name="rez_cmp_local_text_percent_label" stackId="3" startPc="268437851"/>
+        <entry endPc="268438252" name="rez_cmp_local_custom_drawable_Progress" stackId="2" startPc="268437851"/>
+        <entry endPc="268438252" name="rez_cmp_local_text_desc_label" stackId="4" startPc="268437851"/>
+        <entry arg="true" endPc="268438253" name="dc" stackId="1" startPc="268437839"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/MyGlanceView" offset="174" parentId="globals" symbolId="MyGlanceView" type="class"/>
+        <dataEntry label="globals/ProgressRound" offset="245" parentId="globals" symbolId="ProgressRound" type="class"/>
+        <dataEntry label="globals/Rez" offset="300" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="379" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Drawables/progressList" offset="426" parentId="Drawables" symbolId="progressList" type="class"/>
+        <dataEntry label="globals/Rez/Menus" offset="481" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="512" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="543" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="590" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="621" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/YearProgressWidgetApp" offset="660" parentId="globals" symbolId="YearProgressWidgetApp" type="class"/>
+        <dataEntry label="globals/YearProgressWidgetView" offset="739" parentId="globals" symbolId="YearProgressWidgetView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435491" name="initialize" parent="YearProgressWidgetApp" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435496" name="onStart" parent="YearProgressWidgetApp" startPc="268435492">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435501" name="onStop" parent="YearProgressWidgetApp" startPc="268435497">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435543" name="getInitialView" parent="YearProgressWidgetApp" startPc="268435502">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435585" name="getGlanceView" parent="YearProgressWidgetApp" startPc="268435544">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438360" name="&lt;init&gt;" parent="YearProgressWidgetApp" startPc="268438342">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435608" name="initialize" parent="YearProgressWidgetView" startPc="268435586">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436250" name="onLayout" parent="YearProgressWidgetView" startPc="268435609">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436255" name="onShow" parent="YearProgressWidgetView" startPc="268436251">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436280" name="onUpdate" parent="YearProgressWidgetView" startPc="268436256">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436285" name="onHide" parent="YearProgressWidgetView" startPc="268436281">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438379" name="&lt;init&gt;" parent="YearProgressWidgetView" startPc="268438361">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436308" name="initialize" parent="MyGlanceView" startPc="268436286">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436588" name="onLayout" parent="MyGlanceView" startPc="268436309">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436654" name="onUpdate" parent="MyGlanceView" startPc="268436589">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436862" name="drawProgress" parent="MyGlanceView" startPc="268436655">
+            <param id="dc"/>
+            <param id="value"/>
+            <param id="maxvalue"/>
+            <param id="codeColor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438273" name="&lt;init&gt;" parent="MyGlanceView" startPc="268438255">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436887" name="initialize" parent="ProgressRound" startPc="268436863">
+            <param id="params"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437144" name="draw" parent="ProgressRound" startPc="268436888">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438292" name="&lt;init&gt;" parent="ProgressRound" startPc="268438274">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437173" name="initialize" parent="progressList" startPc="268437145">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437506" name="draw" parent="progressList" startPc="268437174">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438336" name="&lt;init&gt;" parent="progressList" startPc="268438318">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438317" name="&lt;init&gt;" parent="Drawables" startPc="268438317">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438338" name="&lt;init&gt;" parent="Fonts" startPc="268438338">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438340" name="&lt;init&gt;" parent="JsonData" startPc="268438340">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437838" name="GlanceLayout" parent="Layouts" startPc="268437507">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438253" name="MainLayout" parent="Layouts" startPc="268437839">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438339" name="&lt;init&gt;" parent="Layouts" startPc="268438339">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438337" name="&lt;init&gt;" parent="Menus" startPc="268438337">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438341" name="&lt;init&gt;" parent="Strings" startPc="268438341">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438316" name="&lt;init&gt;" parent="Rez" startPc="268438293">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

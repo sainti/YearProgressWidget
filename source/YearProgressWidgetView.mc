@@ -44,17 +44,18 @@ class YearProgressWidgetView extends WatchUi.View {
     	
     	
     	var firstDayOfTheYear =  Gregorian.moment(options); 
-    	
+    	System.println(Gregorian.info(today, Time.FORMAT_MEDIUM)); 
    		var progressInSeconds = today.subtract(firstDayOfTheYear);
-   		
-   		percent = progressInSeconds.value() * 100 / Gregorian.SECONDS_PER_YEAR;
-   		
+        percent = 0.0d;
+   		percent = (progressInSeconds.value().toDouble() / Gregorian.SECONDS_PER_YEAR.toDouble())*100.toDouble();
 		System.println(progressInSeconds.value()); 
 		System.println(Gregorian.SECONDS_PER_YEAR); 
+        System.println(100*progressInSeconds.value());
+        System.println(progressInSeconds.value().toDouble() / Gregorian.SECONDS_PER_YEAR.toDouble());
 		System.println(percent); 
 
 		var percent_label = View.findDrawableById("percent_label");
-		percent_label.setText(percent+"%");
+		percent_label.setText(percent.format("%02d")+"%");
 		percent_label.setJustification(1);
 
     	var oneYear = new Time.Duration(Gregorian.SECONDS_PER_YEAR);

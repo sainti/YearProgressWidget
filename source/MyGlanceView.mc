@@ -23,12 +23,11 @@ class MyGlanceView extends WatchUi.GlanceView {
     	var firstDayOfTheYear =  Greg.moment(options); 
     	
    		var progressInSeconds = today.subtract(firstDayOfTheYear);
-   		
-   		percent = progressInSeconds.value() * 100 / Greg.SECONDS_PER_YEAR;
+   	//	   		percent = (progressInSeconds.value().toDouble() / Gregorian.SECONDS_PER_YEAR.toDouble())*100.toDouble();
+   		percent = progressInSeconds.value().toDouble() * 100 / Greg.SECONDS_PER_YEAR.toDouble();
 
       var percent_label = View.findDrawableById("percent_label");
-		  percent_label.setText(percent+"%");
-      
+      percent_label.setText(percent.format("%02d")+"%");
      
 
     }

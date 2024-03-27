@@ -1,6 +1,7 @@
 using Toybox.WatchUi;
 using Toybox.Time           as Date;
 using Toybox.Time.Gregorian as Greg;
+using Toybox.Graphics       as Gfx;
 
 (:glance)
 class MyGlanceView extends WatchUi.GlanceView {
@@ -26,6 +27,19 @@ class MyGlanceView extends WatchUi.GlanceView {
    	//	   		percent = (progressInSeconds.value().toDouble() / Gregorian.SECONDS_PER_YEAR.toDouble())*100.toDouble();
    		percent = progressInSeconds.value().toDouble() * 100 / Greg.SECONDS_PER_YEAR.toDouble();
 
+      if (percent<50)
+        {
+            mainColor=Gfx.COLOR_GREEN;
+        }
+        else if (percent>=50 && percent <75)
+        {
+            mainColor = Gfx.COLOR_YELLOW;
+        }     
+        else if (percent>=75)
+        {
+            mainColor = Gfx.COLOR_RED;
+        }
+
       var percent_label = View.findDrawableById("percent_label");
       percent_label.setText(percent.format("%02d")+"%");
      
@@ -34,7 +48,8 @@ class MyGlanceView extends WatchUi.GlanceView {
     
     function onUpdate(dc) {  
 	    View.onUpdate(dc);
-       drawProgress(dc, percent,100,Graphics.COLOR_RED);
+        
+       drawProgress(dc, percent,100,mainColor);
     }
 
     function drawProgress(dc, value, maxvalue, codeColor) {

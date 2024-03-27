@@ -2,6 +2,7 @@ using Toybox.WatchUi;
 using Toybox.Time;
 using Toybox.Time.Gregorian;
 using Toybox.Lang;
+using Toybox.Graphics as Gfx;
 
 class YearProgressWidgetView extends WatchUi.View {
 
@@ -48,6 +49,20 @@ class YearProgressWidgetView extends WatchUi.View {
    		var progressInSeconds = today.subtract(firstDayOfTheYear);
         percent = 0.0d;
    		percent = (progressInSeconds.value().toDouble() / Gregorian.SECONDS_PER_YEAR.toDouble())*100.toDouble();
+
+        if (percent<50)
+        {
+            mainColor=Gfx.COLOR_GREEN;
+        }
+        else if (percent>=50 && percent <75)
+        {
+            mainColor = Gfx.COLOR_YELLOW;
+        }     
+        else if (percent>=75)
+        {
+            mainColor = Gfx.COLOR_RED;
+        }
+
 		System.println(progressInSeconds.value()); 
 		System.println(Gregorian.SECONDS_PER_YEAR); 
         System.println(100*progressInSeconds.value());

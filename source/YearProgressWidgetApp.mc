@@ -1,6 +1,9 @@
 using Toybox.Application;
+using Toybox.Graphics as Gfx;
+
 
 var percent;
+var mainColor;
 
 class YearProgressWidgetApp extends Application.AppBase {
 
@@ -8,6 +11,7 @@ class YearProgressWidgetApp extends Application.AppBase {
 	
     function initialize() {
     	percent=0;
+        mainColor = Gfx.COLOR_RED;
         AppBase.initialize();
     }
 

@@ -10,7 +10,7 @@ class ProgressRound extends Ui.Drawable {
 	function draw(dc) {
 		var fraction = percent/100f;// timer.fraction();
 		var degrees = fraction*360;
-        var w = 300; //15
+        var w = dc.getWidth()/2; //15
         var x = dc.getWidth()/2;
         var y = dc.getHeight()/2;
         var r = x-w/2;

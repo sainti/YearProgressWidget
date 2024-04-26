@@ -41,11 +41,11 @@
 <entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\MyGlanceView.mc" id="11" lineNum="60" parent="globals/MyGlanceView" pc="268436196" symbol="drawProgress"/>
 <entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\MyGlanceView.mc" id="11" lineNum="64" parent="globals/MyGlanceView" pc="268436249" symbol="drawProgress"/>
 <entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\MyGlanceView.mc" id="11" lineNum="65" parent="globals/MyGlanceView" pc="268436268" symbol="drawProgress"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="12" lineNum="8" parent="globals/GlanceRez" pc="268436325" symbol="&lt;init&gt;"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="13" lineNum="19" parent="globals/GlanceRez/Layouts" pc="268436349" symbol="GlanceLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="13" lineNum="20" parent="globals/GlanceRez/Layouts" pc="268436361" symbol="GlanceLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="13" lineNum="22" parent="globals/GlanceRez/Layouts" pc="268436498" symbol="GlanceLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="13" lineNum="24" parent="globals/GlanceRez/Layouts" pc="268436623" symbol="GlanceLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="12" lineNum="8" parent="globals/GlanceRez" pc="268436325" symbol="&lt;init&gt;"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="13" lineNum="19" parent="globals/GlanceRez/Layouts" pc="268436349" symbol="GlanceLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="13" lineNum="20" parent="globals/GlanceRez/Layouts" pc="268436361" symbol="GlanceLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="13" lineNum="22" parent="globals/GlanceRez/Layouts" pc="268436498" symbol="GlanceLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="13" lineNum="24" parent="globals/GlanceRez/Layouts" pc="268436623" symbol="GlanceLayout"/>
 <entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="14" lineNum="4" parent="globals/ProgressRound" pc="268436650" symbol="&lt;init&gt;"/>
 <entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="15" lineNum="6" parent="globals/ProgressRound" pc="268436669" symbol="initialize"/>
 <entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="15" lineNum="7" parent="globals/ProgressRound" pc="268436671" symbol="initialize"/>
@@ -53,74 +53,74 @@
 <entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="11" parent="globals/ProgressRound" pc="268436696" symbol="draw"/>
 <entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="12" parent="globals/ProgressRound" pc="268436712" symbol="draw"/>
 <entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="13" parent="globals/ProgressRound" pc="268436722" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="14" parent="globals/ProgressRound" pc="268436729" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="15" parent="globals/ProgressRound" pc="268436748" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="16" parent="globals/ProgressRound" pc="268436767" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="17" parent="globals/ProgressRound" pc="268436780" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="19" parent="globals/ProgressRound" pc="268436788" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="21" parent="globals/ProgressRound" pc="268436801" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="22" parent="globals/ProgressRound" pc="268436826" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="23" parent="globals/ProgressRound" pc="268436837" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="24" parent="globals/ProgressRound" pc="268436854" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="26" parent="globals/ProgressRound" pc="268436880" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="27" parent="globals/ProgressRound" pc="268436894" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="17" lineNum="591" parent="globals/Rez" pc="268436931" symbol="&lt;init&gt;"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="18" lineNum="7" parent="globals/YearProgressWidgetView" pc="268436955" symbol="&lt;init&gt;"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="15" parent="globals/YearProgressWidgetView" pc="268436974" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="16" parent="globals/YearProgressWidgetView" pc="268436978" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="18" parent="globals/YearProgressWidgetView" pc="268437019" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="20" parent="globals/YearProgressWidgetView" pc="268437071" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="21" parent="globals/YearProgressWidgetView" pc="268437108" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="33" parent="globals/YearProgressWidgetView" pc="268437248" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="35" parent="globals/YearProgressWidgetView" pc="268437268" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="38" parent="globals/YearProgressWidgetView" pc="268437288" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="47" parent="globals/YearProgressWidgetView" pc="268437348" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="48" parent="globals/YearProgressWidgetView" pc="268437367" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="49" parent="globals/YearProgressWidgetView" pc="268437407" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="50" parent="globals/YearProgressWidgetView" pc="268437422" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="51" parent="globals/YearProgressWidgetView" pc="268437439" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="53" parent="globals/YearProgressWidgetView" pc="268437497" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="55" parent="globals/YearProgressWidgetView" pc="268437514" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="57" parent="globals/YearProgressWidgetView" pc="268437530" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="59" parent="globals/YearProgressWidgetView" pc="268437567" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="61" parent="globals/YearProgressWidgetView" pc="268437583" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="63" parent="globals/YearProgressWidgetView" pc="268437600" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="66" parent="globals/YearProgressWidgetView" pc="268437616" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="67" parent="globals/YearProgressWidgetView" pc="268437645" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="68" parent="globals/YearProgressWidgetView" pc="268437668" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="69" parent="globals/YearProgressWidgetView" pc="268437703" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="70" parent="globals/YearProgressWidgetView" pc="268437756" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="72" parent="globals/YearProgressWidgetView" pc="268437782" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="73" parent="globals/YearProgressWidgetView" pc="268437806" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="74" parent="globals/YearProgressWidgetView" pc="268437846" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="76" parent="globals/YearProgressWidgetView" pc="268437863" symbol="onLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="21" lineNum="9" parent="globals/YearProgressWidgetView" pc="268437897" symbol="initialize"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="21" lineNum="10" parent="globals/YearProgressWidgetView" pc="268437899" symbol="initialize"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="23" lineNum="89" parent="globals/YearProgressWidgetView" pc="268437918" symbol="onUpdate"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="23" lineNum="91" parent="globals/YearProgressWidgetView" pc="268437920" symbol="onUpdate"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="24" lineNum="595" parent="globals/Rez/Drawables/progressList" pc="268437941" symbol="&lt;init&gt;"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="25" lineNum="597" parent="globals/Rez/Drawables/progressList" pc="268437960" symbol="initialize"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="25" lineNum="598" parent="globals/Rez/Drawables/progressList" pc="268437962" symbol="initialize"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="601" parent="globals/Rez/Drawables/progressList" pc="268437987" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="602" parent="globals/Rez/Drawables/progressList" pc="268437989" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="603" parent="globals/Rez/Drawables/progressList" pc="268438000" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="604" parent="globals/Rez/Drawables/progressList" pc="268438012" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="608" parent="globals/Rez/Drawables/progressList" pc="268438019" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="609" parent="globals/Rez/Drawables/progressList" pc="268438041" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="610" parent="globals/Rez/Drawables/progressList" pc="268438073" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="612" parent="globals/Rez/Drawables/progressList" pc="268438095" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="613" parent="globals/Rez/Drawables/progressList" pc="268438117" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="614" parent="globals/Rez/Drawables/progressList" pc="268438144" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="615" parent="globals/Rez/Drawables/progressList" pc="268438166" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="616" parent="globals/Rez/Drawables/progressList" pc="268438198" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="617" parent="globals/Rez/Drawables/progressList" pc="268438220" symbol="draw"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="27" lineNum="629" parent="globals/Rez/Layouts" pc="268438248" symbol="GlanceLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="27" lineNum="630" parent="globals/Rez/Layouts" pc="268438258" symbol="GlanceLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="633" parent="globals/Rez/Layouts" pc="268438288" symbol="MainLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="634" parent="globals/Rez/Layouts" pc="268438300" symbol="MainLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="636" parent="globals/Rez/Layouts" pc="268438347" symbol="MainLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="638" parent="globals/Rez/Layouts" pc="268438495" symbol="MainLayout"/>
-<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="640" parent="globals/Rez/Layouts" pc="268438620" symbol="MainLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="14" parent="globals/ProgressRound" pc="268436741" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="15" parent="globals/ProgressRound" pc="268436760" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="16" parent="globals/ProgressRound" pc="268436779" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="17" parent="globals/ProgressRound" pc="268436792" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="19" parent="globals/ProgressRound" pc="268436800" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="21" parent="globals/ProgressRound" pc="268436813" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="22" parent="globals/ProgressRound" pc="268436838" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="23" parent="globals/ProgressRound" pc="268436849" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="24" parent="globals/ProgressRound" pc="268436866" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="26" parent="globals/ProgressRound" pc="268436892" symbol="draw"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\ProgressRound.mc" id="16" lineNum="27" parent="globals/ProgressRound" pc="268436906" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="17" lineNum="591" parent="globals/Rez" pc="268436943" symbol="&lt;init&gt;"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="18" lineNum="7" parent="globals/YearProgressWidgetView" pc="268436967" symbol="&lt;init&gt;"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="15" parent="globals/YearProgressWidgetView" pc="268436986" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="16" parent="globals/YearProgressWidgetView" pc="268436990" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="18" parent="globals/YearProgressWidgetView" pc="268437031" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="20" parent="globals/YearProgressWidgetView" pc="268437083" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="21" parent="globals/YearProgressWidgetView" pc="268437120" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="33" parent="globals/YearProgressWidgetView" pc="268437260" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="35" parent="globals/YearProgressWidgetView" pc="268437280" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="38" parent="globals/YearProgressWidgetView" pc="268437300" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="47" parent="globals/YearProgressWidgetView" pc="268437360" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="48" parent="globals/YearProgressWidgetView" pc="268437379" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="49" parent="globals/YearProgressWidgetView" pc="268437419" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="50" parent="globals/YearProgressWidgetView" pc="268437434" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="51" parent="globals/YearProgressWidgetView" pc="268437451" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="53" parent="globals/YearProgressWidgetView" pc="268437509" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="55" parent="globals/YearProgressWidgetView" pc="268437526" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="57" parent="globals/YearProgressWidgetView" pc="268437542" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="59" parent="globals/YearProgressWidgetView" pc="268437579" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="61" parent="globals/YearProgressWidgetView" pc="268437595" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="63" parent="globals/YearProgressWidgetView" pc="268437612" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="66" parent="globals/YearProgressWidgetView" pc="268437628" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="67" parent="globals/YearProgressWidgetView" pc="268437657" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="68" parent="globals/YearProgressWidgetView" pc="268437680" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="69" parent="globals/YearProgressWidgetView" pc="268437715" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="70" parent="globals/YearProgressWidgetView" pc="268437768" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="72" parent="globals/YearProgressWidgetView" pc="268437794" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="73" parent="globals/YearProgressWidgetView" pc="268437818" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="74" parent="globals/YearProgressWidgetView" pc="268437858" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="20" lineNum="76" parent="globals/YearProgressWidgetView" pc="268437875" symbol="onLayout"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="21" lineNum="9" parent="globals/YearProgressWidgetView" pc="268437909" symbol="initialize"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="21" lineNum="10" parent="globals/YearProgressWidgetView" pc="268437911" symbol="initialize"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="23" lineNum="89" parent="globals/YearProgressWidgetView" pc="268437930" symbol="onUpdate"/>
+<entry filename="C:\\dev\\YearProgressWidget\\YearProgressWidget\\source\\YearProgressWidgetView.mc" id="23" lineNum="91" parent="globals/YearProgressWidgetView" pc="268437932" symbol="onUpdate"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="24" lineNum="595" parent="globals/Rez/Drawables/progressList" pc="268437953" symbol="&lt;init&gt;"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="25" lineNum="597" parent="globals/Rez/Drawables/progressList" pc="268437972" symbol="initialize"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="25" lineNum="598" parent="globals/Rez/Drawables/progressList" pc="268437974" symbol="initialize"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="601" parent="globals/Rez/Drawables/progressList" pc="268437999" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="602" parent="globals/Rez/Drawables/progressList" pc="268438001" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="603" parent="globals/Rez/Drawables/progressList" pc="268438012" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="604" parent="globals/Rez/Drawables/progressList" pc="268438024" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="608" parent="globals/Rez/Drawables/progressList" pc="268438031" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="609" parent="globals/Rez/Drawables/progressList" pc="268438053" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="610" parent="globals/Rez/Drawables/progressList" pc="268438085" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="612" parent="globals/Rez/Drawables/progressList" pc="268438107" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="613" parent="globals/Rez/Drawables/progressList" pc="268438129" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="614" parent="globals/Rez/Drawables/progressList" pc="268438156" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="615" parent="globals/Rez/Drawables/progressList" pc="268438178" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="616" parent="globals/Rez/Drawables/progressList" pc="268438210" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="26" lineNum="617" parent="globals/Rez/Drawables/progressList" pc="268438232" symbol="draw"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="27" lineNum="629" parent="globals/Rez/Layouts" pc="268438260" symbol="GlanceLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="27" lineNum="630" parent="globals/Rez/Layouts" pc="268438270" symbol="GlanceLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="633" parent="globals/Rez/Layouts" pc="268438300" symbol="MainLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="634" parent="globals/Rez/Layouts" pc="268438312" symbol="MainLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="636" parent="globals/Rez/Layouts" pc="268438359" symbol="MainLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="638" parent="globals/Rez/Layouts" pc="268438507" symbol="MainLayout"/>
+<entry filename="c:\\dev\\YearProgressWidget\\YearProgressWidget\\bin\\gen\\006-B4314-00\\source\\Rez.mcgen" id="28" lineNum="640" parent="globals/Rez/Layouts" pc="268438632" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
@@ -207,29 +207,29 @@
 <entry endPc="268436649" name="rez_cmp_local_text_percent_label" stackId="2" startPc="268436361"/>
 <entry endPc="268436649" name="rez_cmp_local_text_desc_label" stackId="3" startPc="268436361"/>
 <entry arg="true" endPc="268436691" name="params" stackId="1" startPc="268436669"/>
-<entry arg="true" endPc="268436930" name="dc" stackId="1" startPc="268436692"/>
-<entry endPc="268436929" name="fraction" stackId="2" startPc="268436696"/>
-<entry endPc="268436929" name="degrees" stackId="3" startPc="268436696"/>
-<entry endPc="268436929" name="w" stackId="4" startPc="268436696"/>
-<entry endPc="268436929" name="x" stackId="5" startPc="268436696"/>
-<entry endPc="268436929" name="y" stackId="6" startPc="268436696"/>
-<entry endPc="268436929" name="r" stackId="7" startPc="268436696"/>
-<entry arg="true" endPc="268437896" name="dc" stackId="1" startPc="268436974"/>
-<entry endPc="268437895" name="today" stackId="2" startPc="268436978"/>
-<entry endPc="268437895" name="today2" stackId="3" startPc="268436978"/>
-<entry endPc="268437895" name="dateString" stackId="4" startPc="268436978"/>
-<entry endPc="268437895" name="options" stackId="5" startPc="268436978"/>
-<entry endPc="268437895" name="firstDayOfTheYear" stackId="6" startPc="268436978"/>
-<entry endPc="268437895" name="progressInSeconds" stackId="7" startPc="268436978"/>
-<entry endPc="268437895" name="percent_label" stackId="8" startPc="268436978"/>
-<entry endPc="268437895" name="oneYear" stackId="9" startPc="268436978"/>
-<entry arg="true" endPc="268437940" name="dc" stackId="1" startPc="268437918"/>
-<entry arg="true" endPc="268438247" name="dc" stackId="1" startPc="268437987"/>
-<entry arg="true" endPc="268438287" name="dc" stackId="1" startPc="268438248"/>
-<entry arg="true" endPc="268438656" name="dc" stackId="1" startPc="268438288"/>
-<entry endPc="268438656" name="rez_cmp_local_custom_drawable_Progress" stackId="2" startPc="268438300"/>
-<entry endPc="268438656" name="rez_cmp_local_text_percent_label" stackId="3" startPc="268438300"/>
-<entry endPc="268438656" name="rez_cmp_local_text_desc_label" stackId="4" startPc="268438300"/>
+<entry arg="true" endPc="268436942" name="dc" stackId="1" startPc="268436692"/>
+<entry endPc="268436941" name="fraction" stackId="2" startPc="268436696"/>
+<entry endPc="268436941" name="degrees" stackId="3" startPc="268436696"/>
+<entry endPc="268436941" name="w" stackId="4" startPc="268436696"/>
+<entry endPc="268436941" name="x" stackId="5" startPc="268436696"/>
+<entry endPc="268436941" name="y" stackId="6" startPc="268436696"/>
+<entry endPc="268436941" name="r" stackId="7" startPc="268436696"/>
+<entry arg="true" endPc="268437908" name="dc" stackId="1" startPc="268436986"/>
+<entry endPc="268437907" name="today" stackId="2" startPc="268436990"/>
+<entry endPc="268437907" name="today2" stackId="3" startPc="268436990"/>
+<entry endPc="268437907" name="dateString" stackId="4" startPc="268436990"/>
+<entry endPc="268437907" name="options" stackId="5" startPc="268436990"/>
+<entry endPc="268437907" name="firstDayOfTheYear" stackId="6" startPc="268436990"/>
+<entry endPc="268437907" name="progressInSeconds" stackId="7" startPc="268436990"/>
+<entry endPc="268437907" name="percent_label" stackId="8" startPc="268436990"/>
+<entry endPc="268437907" name="oneYear" stackId="9" startPc="268436990"/>
+<entry arg="true" endPc="268437952" name="dc" stackId="1" startPc="268437930"/>
+<entry arg="true" endPc="268438259" name="dc" stackId="1" startPc="268437999"/>
+<entry arg="true" endPc="268438299" name="dc" stackId="1" startPc="268438260"/>
+<entry arg="true" endPc="268438668" name="dc" stackId="1" startPc="268438300"/>
+<entry endPc="268438668" name="rez_cmp_local_custom_drawable_Progress" stackId="2" startPc="268438312"/>
+<entry endPc="268438668" name="rez_cmp_local_text_percent_label" stackId="3" startPc="268438312"/>
+<entry endPc="268438668" name="rez_cmp_local_text_desc_label" stackId="4" startPc="268438312"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -337,30 +337,30 @@
 <param id="params"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436930" name="draw" parent="ProgressRound" startPc="268436692">
+<functionEntry accessMode="public" endPc="268436942" name="draw" parent="ProgressRound" startPc="268436692">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436954" name="&lt;init&gt;" parent="Rez" startPc="268436931">
+<functionEntry accessMode="public" endPc="268436966" name="&lt;init&gt;" parent="Rez" startPc="268436943">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436973" name="&lt;init&gt;" parent="YearProgressWidgetView" startPc="268436955">
+<functionEntry accessMode="public" endPc="268436985" name="&lt;init&gt;" parent="YearProgressWidgetView" startPc="268436967">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onShow" parent="YearProgressWidgetView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437896" name="onLayout" parent="YearProgressWidgetView" startPc="268436974">
+<functionEntry accessMode="public" endPc="268437908" name="onLayout" parent="YearProgressWidgetView" startPc="268436986">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437917" name="initialize" parent="YearProgressWidgetView" startPc="268437897">
+<functionEntry accessMode="public" endPc="268437929" name="initialize" parent="YearProgressWidgetView" startPc="268437909">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onHide" parent="YearProgressWidgetView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437940" name="onUpdate" parent="YearProgressWidgetView" startPc="268437918">
+<functionEntry accessMode="public" endPc="268437952" name="onUpdate" parent="YearProgressWidgetView" startPc="268437930">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
@@ -382,21 +382,21 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437959" name="&lt;init&gt;" parent="progressList" startPc="268437941">
+<functionEntry accessMode="public" endPc="268437971" name="&lt;init&gt;" parent="progressList" startPc="268437953">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437986" name="initialize" parent="progressList" startPc="268437960">
+<functionEntry accessMode="public" endPc="268437998" name="initialize" parent="progressList" startPc="268437972">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438247" name="draw" parent="progressList" startPc="268437987">
+<functionEntry accessMode="public" endPc="268438259" name="draw" parent="progressList" startPc="268437999">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438287" name="GlanceLayout" parent="Layouts" startPc="268438248">
+<functionEntry accessMode="public" endPc="268438299" name="GlanceLayout" parent="Layouts" startPc="268438260">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438656" name="MainLayout" parent="Layouts" startPc="268438288">
+<functionEntry accessMode="public" endPc="268438668" name="MainLayout" parent="Layouts" startPc="268438300">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
